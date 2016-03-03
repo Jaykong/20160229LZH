@@ -1,0 +1,43 @@
+1、不合法的有int、6_05、A$
+   int是保留字
+   名称要以字母或下划线开头
+   $是非法字符
+
+
+2、
+class:  phone
+object: myPhone
+methods: call
+         massages
+         weChat
+         filmWatch
+         listen music
+ 
+        
+3、［myPhone  call］;
+  ［myPhone  massages］;
+  ［myPhone  weChat］;
+  ［myPhone  filmWatch］;
+  ［myPhone  listenMusic］;
+
+
+4、object:myShip 
+   methods:drive
+          service
+
+   object: myMotorcycle 
+   methods:drive
+          racing
+
+   object: myCar 
+   methods:drive
+           getGas
+  
+   drive方法重叠
+
+
+
+
+
+
+      
